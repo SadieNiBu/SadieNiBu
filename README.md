@@ -3,7 +3,7 @@
 I'm a third-year Computer Science student currently attending the University of Central Florida. It feels like I've dabbled in a little bit of everything, but I've definitely spent the most time working as either a full-stack or front-end dev on a multitude of projects.<br/><br/>
 Here's a few of my socials:<br/><br/>
 🔗 [Handshake](https://ucf.joinhandshake.com/profiles/40554325) <br/>
-🔗 [LinkedIn](https://ucf.joinhandshake.com/profiles/40554325) <br/>
+🔗 [LinkedIn](https://www.linkedin.com/in/sadie-burns-267905340/) <br/>
 🔗 [Devpost](https://devpost.com/sadiejklol?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 ## Skills
 Languages: C, Python, Java, JavaScript, TypeScript, HTML, CSS<br/><br/>
