@@ -6,7 +6,7 @@ Here's a few of my socials:<br/><br/>
 🔗 [LinkedIn](https://www.linkedin.com/in/sadie-burns-267905340/) <br/>
 🔗 [Devpost](https://devpost.com/sadiejklol?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 ## Skills
-Languages: C, Python, Java, JavaScript, TypeScript, HTML, CSS<br/><br/>
+Languages: C, C#, Python, Java, JavaScript, TypeScript, HTML, CSS<br/><br/>
 Tools: Git, CLI, MongoDB, Node.js, Express, React, Tailwind
 ## Showcase
 [ProjectGG](https://www.project-gg.co/): Front-end dev for ProjectGG, a submission for KnightHacks 2024. ProjectGG acts as a social media platform focused on connecting gamers with other gamers who may have similar tastes in games as them!<br/><br/>
