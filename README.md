@@ -1,6 +1,6 @@
 # Hey there, I'm Sadie 👋
 ## About Me
-I'm a third-year Computer Science student currently attending the University of Central Florida. It feels like I've dabbled in a little bit of everything, but I've definitely spent the most time working as either a full-stack or front-end dev on a multitude of projects.<br/><br/>
+I'm a fourth-year Computer Science student currently attending the University of Central Florida. It feels like I've dabbled in a little bit of everything, but I've definitely spent the most time working as either a full-stack or front-end dev on a multitude of projects.<br/><br/>
 Here's a few of my socials:<br/><br/>
 🔗 [Handshake](https://ucf.joinhandshake.com/profiles/40554325) <br/>
 🔗 [LinkedIn](https://www.linkedin.com/in/sadie-burns-267905340/) <br/>
